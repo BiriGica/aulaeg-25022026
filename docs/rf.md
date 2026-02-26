@@ -1,4 +1,4 @@
-## Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF) | Para e-commerce
 
 ### RF01 — Login do usuário
 O sistema deve permitir que o usuário realize login com e-mail e senha.
@@ -12,5 +12,6 @@ O usuário pode alterar nome, foto e dados pessoais.
 ### RF04 — Cadastro de novos usuários 
 O sistema deve permitir que novos usuários sejam criados.
 
-### RF05 — Autenticação por dois fatores 
+### RF05 — Carrinho de compras
+O sistema deve permitir que o usuário controle os produtos no carrinho antes de finalizar o pedido.
 
